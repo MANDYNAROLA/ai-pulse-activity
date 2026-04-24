@@ -1,0 +1,52 @@
+{
+  "date": "2026-04-24",
+  "message": "Monitored AI performance — AIPulse session",
+  "ais": [
+    {
+      "id": "gpt",
+      "name": "ChatGPT",
+      "ms": 789
+    },
+    {
+      "id": "gem",
+      "name": "Gemini",
+      "ms": 763
+    },
+    {
+      "id": "cla",
+      "name": "Claude",
+      "ms": 824
+    },
+    {
+      "id": "grk",
+      "name": "Grok",
+      "ms": 855
+    },
+    {
+      "id": "per",
+      "name": "Perplexity",
+      "ms": 713
+    },
+    {
+      "id": "cop",
+      "name": "Copilot",
+      "ms": 724
+    },
+    {
+      "id": "dsp",
+      "name": "DeepSeek",
+      "ms": 1046
+    },
+    {
+      "id": "meta",
+      "name": "Meta AI",
+      "ms": 801
+    },
+    {
+      "id": "mis",
+      "name": "Mistral",
+      "ms": 450
+    }
+  ],
+  "ts": 1777013084683
+}
