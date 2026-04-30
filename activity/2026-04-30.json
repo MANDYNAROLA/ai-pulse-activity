@@ -5,48 +5,48 @@
     {
       "id": "gpt",
       "name": "ChatGPT",
-      "ms": 778
+      "ms": 695
     },
     {
       "id": "gem",
       "name": "Gemini",
-      "ms": 704
+      "ms": 775
     },
     {
       "id": "cla",
       "name": "Claude",
-      "ms": 614
+      "ms": 752
     },
     {
       "id": "grk",
       "name": "Grok",
-      "ms": 853
+      "ms": 812
     },
     {
       "id": "per",
       "name": "Perplexity",
-      "ms": 567
+      "ms": 496
     },
     {
       "id": "cop",
       "name": "Copilot",
-      "ms": 749
+      "ms": 826
     },
     {
       "id": "dsp",
       "name": "DeepSeek",
-      "ms": 1028
+      "ms": 887
     },
     {
       "id": "meta",
       "name": "Meta AI",
-      "ms": 770
+      "ms": 644
     },
     {
       "id": "mis",
       "name": "Mistral",
-      "ms": 458
+      "ms": 535
     }
   ],
-  "ts": 1777583598657
+  "ts": 1777586462553
 }
